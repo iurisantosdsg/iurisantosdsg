@@ -36,7 +36,5 @@
 
 ###
 
-![Commits](https://github-readme-stats.vercel.app/api?username=iurisantosdsg&theme=blue-white) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iurisantosdsg&theme=blue-white)
-
 
 
